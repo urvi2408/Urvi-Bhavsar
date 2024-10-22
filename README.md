@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![An image of @urvi2408's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/@urvi2408)](https://www.holopin.io/@urvi2408)
-
+[![An image of @urvi2408's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/urvi2408)](https://holopin.io/@urvi2408)
 <!--
 **urvi2408/Urvi-Bhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
